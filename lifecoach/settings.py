@@ -48,7 +48,6 @@ INSTALLED_APPS = [
     'emoticons',
     'disqus',
     'threads',
-
 ]
 
 
